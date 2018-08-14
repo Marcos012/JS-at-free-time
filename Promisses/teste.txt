@@ -1,0 +1,4 @@
+Lendo arquivo...
+
+marcos012
+JavaScript
